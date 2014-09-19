@@ -1,0 +1,23 @@
+{
+  "name": "IM Fell French Canon SC",
+  "designer": "Igino Marini",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Serif",
+  "size": 78513,
+  "fonts": [
+    {
+      "name": "IM FELL French Canon SC",
+      "style": "normal",
+      "weight": 400,
+      "filename": "IMFELLFrenchCanonSC-Regular.ttf",
+      "postScriptName": "IM_FELL_French_Canon_SC",
+      "fullName": "IM FELL French Canon SC",
+      "copyright": "© 2007 Igino Marini (www.iginomarini.com) With Reserved Font Name IM FELL French Canon SC"
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2010-05-17"
+}
